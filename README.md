@@ -13,17 +13,19 @@ This may be required by the company. For example: you can find out what an emplo
 
 4. Сommand list:  
 -----base------  
-clear - clear console  
-exit - quit from program  
+1 - clear - clear console  
+2 - exit - quit from program  
 -----RMOC------  
-client -i - show client list and client count  
-client -w start (index) - start watching client camera  
-client -w stop (index) - stop watching client camera  
-client -s start (index) - start watching client screen  
-client -s stop (index) - stop watching client screen  
+1 - client -i - show client list and client count  
+2 - client -w start (index) - start watching client camera  
+3 - client -w stop (index) - stop watching client camera  
+4 - client -s start (index) - start watching client screen  
+5 - client -s stop (index) - stop watching client screen  
 -----Sending data------  
-send (message) - send message all clients  
-sendto (index) (message) - send message to client by index  
+1 - send (message) - send message all clients  
+2 - sendto (index) (message) - send message to client by index  
 -----Vidstream server------  
-stream /start - start vidstream server  
-stream /stop - stop vidstream server
+1 - stream /start - start vidstream server  
+2 - stream /stop - stop vidstream server
+   
+![Без названия](https://github.com/ImNecki/Bimba-v1.0/assets/134767218/d2481dea-8cc1-4b36-8450-a19b3bd04d3d)
