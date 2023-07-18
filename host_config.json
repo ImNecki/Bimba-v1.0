@@ -1,0 +1,6 @@
+{
+    "ipAddress": "127.0.0.1",
+    "port": 8080,
+    "streaming_ipAddress": "127.0.0.1",
+    "streaming_port": 25501
+}
